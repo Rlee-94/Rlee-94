@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rlee-94
-- 👀 I’m interested in learning python and becoming a software engineer!
-- 🌱 I’m currently learning python
+- 👀 I’m interested in learning to code and hopefully become a software engineer one day!
+- 🌱 I’m currently learning python, HTML, CSS, and Javascript.
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me leereggie28@gmail.com
 
