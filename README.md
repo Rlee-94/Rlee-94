@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Rlee-94
-- 👀 I’m interested in learning to code and hopefully become a software engineer one day!
-- 🌱 I’m currently learning python, HTML, CSS, and Javascript.
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me leereggie28@gmail.com
+- Hello, my name is Reggie Lee.
+- I’m interested in learning to code.
+- I’m currently learning Python, HTML, CSS, and Javascript.
+- I’m looking to collaborate on projects
+- How to reach me leereggie28@gmail.com
 
 <!---
 Rlee-94/Rlee-94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
