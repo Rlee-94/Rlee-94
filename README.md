@@ -1,7 +1,6 @@
 - Hello, my name is Reggie Lee.
-- I’m interested in learning to code.
-- I’m currently learning Python, HTML, CSS, and Javascript.
-- I’m looking to collaborate on projects
+- I’m interested in learning to code and become a web developer
+- I’m currently learning HTML, CSS/SCSS, and Javascript.
 - How to reach me leereggie28@gmail.com
 
 <!---
