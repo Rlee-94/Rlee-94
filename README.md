@@ -1,6 +1,6 @@
 - Hello, my name is Reggie Lee.
 - I’m interested in learning to code and become a web developer
-- I’m currently learning HTML, CSS/SCSS, and Javascript.
+- I’m currently learning HTML, CSS/SCSS, Javascript/REACT.
 - How to reach me leereggie28@gmail.com
 
 <!---
